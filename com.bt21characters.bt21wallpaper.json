@@ -41,9 +41,9 @@
 "FAN_INTER" : "YOUR_PLACEMENT_ID",
 "FAN_BANNER" : "YOUR_PLACEMENT_ID",
 
-"UNITY_BANNER" : "Banner_Android",
-"UNITY_INTERSTITIAL" : "Interstitial_Android",
-"UNITY_GAME_ID" : "4466248",
+"UNITY_BANNER" : "Banner_Androidxx",
+"UNITY_INTERSTITIAL" : "Interstitial_Androidxx",
+"UNITY_GAME_ID" : "4466248xx",
 
 "STARTAPPID" : "210106085",
 "ENABLE_STRAP" : true,
